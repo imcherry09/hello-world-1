@@ -3,6 +3,7 @@
 <head>
     <title>Basic HTML with Inline CSS</title>
 </head>
+<img src="https://media.tenor.com/RyXiEcn1pm0AAAAd/pawan-kalyan-panjaa.gif" alt="Flowers in Chania" width="460" height="345">
 <body>
     <h1 style="color: #333; font-family: Arial, sans-serif;">Welcome to My Website</h1>
     
