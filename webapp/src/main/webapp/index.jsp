@@ -14,7 +14,7 @@
     <div style="background-color: #f1f1f1; padding: 10px;">
         <h2 style="color: #333;">About Me</h2>
         <p style="font-size: 14px; line-height: 1.4; color: #555;">
-            This is Charan Sai Thirumalla.....
+            This is Charan Sai Thirumalla.
         </p>
     </div>
     
