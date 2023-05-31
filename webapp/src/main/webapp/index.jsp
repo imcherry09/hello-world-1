@@ -7,7 +7,7 @@
 <body>
     <h1 style="color: #333; font-family: Arial, sans-serif;">Welcome to My Website</h1>
     
-    <p style="font-size: 16px; line-height: 1.5; color: #666;">
+    <p style="font-size: 16px; line-height: 1.5; color: #567;">
         This is a basic HTML page with inline CSS styling.
     </p>
     
